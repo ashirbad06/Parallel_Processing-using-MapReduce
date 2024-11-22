@@ -46,4 +46,6 @@ bash start_driver.sh
 bash start_driver.sh
 ```
 
-
+```bash
+python3 test_runner.py
+```
