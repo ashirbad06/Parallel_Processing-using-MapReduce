@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/source_code/driver_source_code/Driver" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/source_code/engine_source_code/Engine" vcs="Git" />
-  </component>
-</project>
