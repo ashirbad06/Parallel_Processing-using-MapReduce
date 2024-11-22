@@ -28,10 +28,6 @@ Ensure the following are installed on your system:
 - **Bash** (for script execution)
 
 ### Install Required Python Libraries:
-Install necessary Python dependencies using `pip`:
-```bash
-pip install -r requirements.txt
-```
 
 ```bash
 sudo chmod +x driver_code.py engine.py
