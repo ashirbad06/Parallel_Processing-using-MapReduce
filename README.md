@@ -35,9 +35,7 @@ sudo chmod +x driver_code.py engine.py
 ```bash
 bash start_engine.sh
 ```
-```bash
-bash start_driver.sh
-```
+After this please press Ctrl + C to exit
 ```bash
 bash start_driver.sh
 ```
