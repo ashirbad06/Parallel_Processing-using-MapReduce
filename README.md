@@ -1,4 +1,4 @@
-# Skeleton Project
+# Parallel Processing of Data using MapReduce
 
 This project consists of two main components that leverage parallel and distributed processing for efficient data computation and task management:
 
